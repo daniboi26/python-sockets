@@ -1,2 +1,2 @@
 # python-sockets
-Python based sockets programs for server and client based connections
+Python based sockets programs for server and client based connections.
